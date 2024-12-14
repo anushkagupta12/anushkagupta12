@@ -75,8 +75,11 @@ Welcome to my GitHub profile! I’m a **B.Tech Computer Science and Engineering 
 
 ## 📈 GitHub Stats
 
-![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushka1563&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka1563&layout=compact&theme=tokyonight)
+![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushka1563&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka1563&layout=compact&theme=tokyonight&hide=html,css&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Anushka1563&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
