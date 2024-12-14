@@ -1,4 +1,4 @@
-# Anushka Gupta's GitHub Overview
+# Anushka Gupta
 
 Welcome to my GitHub profile! I'm Anushka Gupta, a passionate Computer Science and Engineering student at the National Institute of Technology, Arunachal Pradesh (NIT Arunachal). Currently, I’m in my third year of the B.Tech program, with a strong interest in data science, software development, and problem-solving.
 
