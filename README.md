@@ -1,56 +1,115 @@
-# Anushka Gupta
+# 👋 Hi, I'm Anushka Gupta!
 
-Welcome to my GitHub profile! I'm Anushka Gupta, a passionate Computer Science and Engineering student at the National Institute of Technology, Arunachal Pradesh (NIT Arunachal). Currently, I’m in my third year of the B.Tech program, with a strong interest in data science, software development, and problem-solving.
+Welcome to my GitHub profile! I’m a **B.Tech Computer Science and Engineering student** at the National Institute of Technology, Arunachal Pradesh. I’m passionate about **solving real-world problems** through **software development**, **machine learning**, and **creative coding**.
 
-### :school: Education
-- **B.Tech in Computer Science and Engineering**  
-  *National Institute of Technology, Arunachal Pradesh* (2022 – 2026)  
-  **CGPA:** 8.79
+🌟 **Driven by curiosity**, I enjoy exploring emerging technologies and constantly refining my skills. I believe in the power of collaborative learning and actively contribute to communities like **Google Developer Student Clubs** and **Coding Pundit**.
 
-- **Class 12th** (CBSE Board, 2021)  
-  **Percentage:** 81.6%
+---
 
-- **Class 10th** (CBSE Board, 2019)  
-  **Percentage:** 94%
+## 🛠️ Technical Skills
 
-### :star: Projects
+### Programming Languages:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- **[Netflix Home Page Clone](#)**  
-  *Technologies: HTML, CSS*  
-  Implemented a responsive design to create an optimal user experience, following best practices for front-end development.
+### Frontend Development:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-- **[Diabetes Prediction](#)**  
-  *Technologies: Python, Pandas, NumPy, Scikit-learn*  
-  Built a machine learning model to predict diabetes based on medical data. Preprocessed the dataset and visualized insights from the data.
+### Data Science & Machine Learning:
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-004080?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-- **[Landing Webpage for a Hotel](#)**  
-  *Technologies: HTML, CSS, JavaScript*  
-  Developed a responsive landing page for a hotel, optimized for various devices, enhancing the booking process for users.
+### Databases:
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **[Car Rental System](#)**  
-  *Technologies: Java*  
-  Developed a complete car rental system, implementing functionalities such as booking, cancellation, and customer management with dynamic status updates.
+### Version Control:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### :trophy: Certifications and Achievements
-- **Amazon FFE Scholar:** One of India's top 500 scholars, recognized for exceptional academic performance.
-- **Python Certification:** Completed a course on Udemy to enhance my Python programming skills.
-- **National Conference on NEP at NERIST:** Actively participated in discussions on key educational policies, contributing to debates and raising pertinent queries.
-- **LeetCode:** Solved 300+ Data Structures and Algorithms (DSA) problems, refining problem-solving skills.
+---
 
-### :wrench: Technical Skills
-- **Languages:** Java, Python, C, JavaScript
-- **Technologies/Frameworks:** HTML5, CSS3, Bootstrap, React.js, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-- **Database:** MySQL
-- **Version Control:** Git, GitHub
+## 🌟 Featured Projects
 
-### :fire: Extracurricular Activities
-- **Core Member of Coding Pundit (Coding Club of NIT Arunachal Pradesh)**
-- **Active Member of Google Developer Student Club (GDSC)**
+### [Netflix Home Page Clone](https://github.com/Anushka1563/netflix-clone)  
+**Technologies:** HTML, CSS  
+📌 A responsive Netflix homepage clone showcasing front-end development skills.  
+⭐ Highlights:
+- Implemented responsive design principles to enhance user experience.  
+- Used HTML and CSS best practices for performance optimization.
 
-Feel free to explore my repositories, and let's connect! :smile:
+---
 
-You can also reach out to me at:
-- Email: [anushkagupta1563@gmail.com](mailto:anushkagupta1563@gmail.com)
-- LinkedIn: [LinkedIn Profile](#)
-- GitHub: [GitHub Profile](#)
-- LeetCode: [LeetCode Profile](#)
+### [Diabetes Prediction](https://github.com/Anushka1563/diabetes-prediction)  
+**Technologies:** Python, Pandas, Scikit-learn  
+📌 A machine learning project predicting diabetes based on medical data.  
+⭐ Highlights:
+- Preprocessed and analyzed datasets with eight predictor variables.  
+- Built and evaluated models using Scikit-learn to achieve high prediction accuracy.
+
+---
+
+### [Landing Webpage for a Hotel](https://github.com/Anushka1563/hotel-landing-page)  
+**Technologies:** HTML, CSS, JavaScript  
+📌 A responsive and user-friendly landing page for hotel bookings.  
+⭐ Highlights:
+- Developed interactive UI elements with JavaScript.  
+- Optimized responsiveness for different devices and screen sizes.
+
+---
+
+### [Car Rental System](https://github.com/Anushka1563/car-rental-system)  
+**Technologies:** Java  
+📌 A Java-based system for managing car reservations and customer data.  
+⭐ Highlights:
+- Implemented core functionalities like booking, cancellation, and tracking car availability.  
+- Designed a user-friendly interface with robust back-end logic.
+
+---
+
+## 📈 GitHub Stats
+
+![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushka1563&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka1563&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 Certifications & Achievements
+
+- **Amazon FFE Scholar** – Selected among India’s top 500 for outstanding academic performance.  
+- **Python Certification** – Completed a Python programming course on Udemy.  
+- Solved **300+ Data Structures & Algorithms problems** on [LeetCode](https://leetcode.com/Anushka1563).  
+- **National Conference on NEP (NERIST):** Participated and led discussions on educational policies.
+
+---
+
+## 🌱 What I’m Learning
+- Advanced **React.js** for front-end development.  
+- Building scalable systems with **Spring Boot** and **REST APIs**.  
+- Exploring **Deep Learning** and **Neural Networks**.
+
+---
+
+## 🎨 Fun Facts
+- 🌟 Coding is my superpower, and problem-solving is my playground!  
+- 🍲 I’m a foodie who loves experimenting with new cuisines.  
+- 🎯 **2024 Goals:** Contribute to open-source projects and achieve mastery in competitive programming.  
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushka-gupta)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anushka1563)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Anushka1563)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushkagupta1563@gmail.com)  
+
+---
+
+💻 **“Keep learning, keep coding, and keep building!”**
