@@ -4,6 +4,9 @@ Welcome to my GitHub profile! I’m a **B.Tech Computer Science and Engineering 
 
 🌟 **Driven by curiosity**, I enjoy exploring emerging technologies and constantly refining my skills. I believe in the power of collaborative learning and actively contribute to communities like **Google Developer Student Clubs** and **Coding Pundit**.
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anushka1563&color=green&style=flat-square)
+
 ---
 
 ## 🛠️ Technical Skills
