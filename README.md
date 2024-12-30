@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a **B.Tech Computer Science and Engineering 
 🌟 **Driven by curiosity**, I enjoy exploring emerging technologies and constantly refining my skills. I believe in the power of collaborative learning and actively contribute to communities like **Google Developer Student Clubs** and **Coding Pundit**.
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anushka1563&color=green&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=anushkagupta12&color=green&style=flat-square)
 
 ---
 
@@ -111,9 +111,9 @@ Welcome to my GitHub profile! I’m a **B.Tech Computer Science and Engineering 
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushka-gupta)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anushka1563)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Anushka1563)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/anushka-gupta-56784a255/])
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anushkagupta12)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anushka0743/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushkagupta1563@gmail.com)  
 
 ---
