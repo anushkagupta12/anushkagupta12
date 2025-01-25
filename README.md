@@ -90,7 +90,7 @@ Welcome to my GitHub profile! I’m a **B.Tech Computer Science and Engineering 
 
 - **Amazon FFE Scholar** – Selected among India’s top 500 for outstanding academic performance.  
 - **Python Certification** – Completed a Python programming course on Udemy.  
-- Solved **300+ Data Structures & Algorithms problems** on [LeetCode](https://leetcode.com/Anushka1563).  
+- Solved **300+ Data Structures & Algorithms problems** on Leetcode.  
 - **National Conference on NEP (NERIST):** Participated and led discussions on educational policies.
 
 ---
@@ -112,8 +112,7 @@ Welcome to my GitHub profile! I’m a **B.Tech Computer Science and Engineering 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/anushka-gupta-56784a255/])
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anushkagupta12)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anushka0743/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anushkagupta12)   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushkagupta1563@gmail.com)  
 
 ---
