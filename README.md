@@ -71,8 +71,7 @@
 ---
 
 ## 🌱 What I’m Learning
-- Advanced **React.js** for front-end development.  
-- Building scalable systems with **Spring Boot** and **REST APIs**.  
+- Advanced **React.js** for front-end development.   
 - Exploring **Deep Learning** and **Neural Networks**.
 
 ---
@@ -80,7 +79,7 @@
 ## 🎨 Fun Facts
 - 🌟 Coding is my superpower, and problem-solving is my playground!  
 - 🍲 I’m a foodie who loves experimenting with new cuisines.  
-- 🎯 **2024 Goals:** Contribute to open-source projects and achieve mastery in competitive programming.  
+  
 
 ---
 
