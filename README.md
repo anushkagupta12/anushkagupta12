@@ -6,6 +6,14 @@
 
 ---
 
+### 🎓 Education
+🎓 **B.Tech - Computer Science & Engineering**  
+National Institute of Technology Arunachal Pradesh (2022 – 2026)  
+📍 Itanagar, Arunachal Pradesh  
+📊 CGPA: 8.78  
+
+---
+
 ### ⚒️ Tech Stack
 
 #### 💻 Languages & Fundamentals
@@ -38,17 +46,31 @@
 
 ---
 
+## 💼 Experience
 
+### 🏢 IIT Guwahati — AI/ML Intern (Dec 2024 – Jan 2025)
+- Developed and fine-tuned a **CNN model** for water contamination classification.
+- Improved model accuracy from **80% → 85%** using image preprocessing & hyperparameter tuning.
 
-### 🚀 Featured Projects
+### 🏢 TestAIng Sol Ltd — Frontend Intern (June 2025 – Aug 2025)
+- Built responsive web interfaces using **Tailwind CSS**.
+- Integrated APIs and improved performance & usability of web applications.
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Learnify](https://github.com/anushkagupta12/Learnify) 🎓 | E-learning platform with course filtering, authentication & smooth UX | React, Node, Express, MongoDB |
-| [Diabetes Prediction](https://github.com/anushkagupta12/Diabetes-Prediction) 🩺 | ML-based health predictor using medical data | Python, Pandas, Scikit-learn |
-| [Hotel Orentia](https://github.com/anushkagupta12/Hotel-Orentia) 🏨 | Beautiful, responsive landing page for hotel booking | HTML, CSS, JS |
-| [Car Rental System](https://github.com/anushkagupta12/Car-Rental-System) 🚗 | Java app to handle bookings, returns, and car status | Java |
+---
 
+## 🚀 Featured Projects
+
+### 🌱 AI-Powered Plant Disease Detection  
+**Tech:** Python, Flask, TensorFlow, DenseNet121, Bootstrap  
+- Built a deep learning-based web app to detect plant diseases from leaf images.
+- Used pretrained **DenseNet121** model.
+- Displayed prediction results with remedy suggestions via Flask backend.
+
+### 🎓 Learnify  
+**Tech:** ReactJS, NodeJS, ExpressJS, MongoDB, Tailwind CSS  
+- Designed responsive UI in React.
+- Implemented category-based content filtering.
+- Built authentication and backend APIs.
 ---
 
 ## 📈 GitHub Stats
@@ -61,27 +83,21 @@
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Achievements
 
-- **Amazon FFE Scholar** – Selected among India’s top 500 for outstanding academic performance.  
-- **Python Certification** – Completed a Python programming course on Udemy.  
-- Solved **450+ Data Structures & Algorithms problems** on Leetcode.  
-- **National Conference on NEP (NERIST):** Participated and led discussions on educational policies.
-
+- 🏅 **Amazon FFE Scholar** (Top 500 in India)
+- 🏆 **Walmart CodeHers’25 Finalist**
+- 💯 **1600+ LeetCode Rating (Top 16%)**
+- 🧠 Solved **500+ DSA Problems**
+- 📜 HackerRank Java (Basic) Certified
+- 🏁 LeetCode Contest 461 – Rank 1271
+  
 ---
-
-## 🌱 What I’m Learning
-- Advanced **React.js** for front-end development.   
+## 🌱 What I’m Learning  
 - Exploring **Deep Learning** and **Neural Networks**.
 
 ---
 
-## 🎨 Fun Facts
-- 🌟 Coding is my superpower, and problem-solving is my playground!  
-- 🍲 I’m a foodie who loves experimenting with new cuisines.  
-  
-
----
 
 ### 📫 Connect with Me!
 
@@ -98,10 +114,8 @@
   <a href="https://leetcode.com/u/anushka0743/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://github.com/anushkagupta12">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
+
 ---
 
 
