@@ -10,7 +10,7 @@
 🎓 **B.Tech - Computer Science & Engineering**  
 National Institute of Technology Arunachal Pradesh (2022 – 2026)  
 📍 Itanagar, Arunachal Pradesh  
-📊 CGPA: 8.78  
+📊 CGPA: 8.76
 
 ---
 
